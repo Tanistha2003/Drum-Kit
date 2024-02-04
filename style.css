@@ -1,0 +1,73 @@
+h1{
+    color: #DBEDF3;
+    font-size: 5rem;
+    text-align:center;
+    text-shadow: 2px 0 red;
+    font-family: 'Arvo',cursive;
+}
+
+body{
+    background-color:  #283149;
+    text-align: center;
+}
+
+.click{
+     margin-top: 10%;
+}
+
+footer{
+    margin-top: 10%;
+    color: white;
+    font-family: sans-serif;
+}
+
+.go{
+    color:#d775a1;
+    font-size:5rem;
+    font-family: 'Avro',cursive;
+    width:150px;
+    height:150px;
+    border-radius:15px;
+    border:10px solid #404B69;
+    font-weight: bold;
+    text-shadow: 4px 0 #DBEDF3;
+    text-align: center;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+
+    opacity: 0.5;
+}
+
+/*images for buttons*/
+
+.w{
+    background-image:url("images/tom1.png");
+}
+
+.a{
+    background-image:url("images/tom2.png");
+}
+
+.s{
+    background-image:url("images/tom3.png");
+}
+
+.d{
+    background-image:url("images/tom4.png");
+}
+
+.k{
+    background-image:url("images/kick.png");
+}
+
+.j{
+    background-image:url("images/snare.png");
+}
+
+.l{
+    background-image:url("images/crash.png");
+}
